@@ -4,7 +4,7 @@ import axios from 'axios'
 import { useParams } from 'react-router-dom'
 import ProductCard from '../../Components/Product/ProductCard'
 import {ProductUrl} from '../../Api/EndPoints'
-import './Results.css'
+import './results.css'
 import Loader from '../../Components/Loader/Loader'
 
 
