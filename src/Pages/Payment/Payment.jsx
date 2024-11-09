@@ -9,7 +9,7 @@ import { db } from '../../Utility/firebase';
 import {ClipLoader} from 'react-spinners'
 import {Type} from '../../Utility/action.type'
 import CurrencyFormat from '../../Components/CurrencyFormat/CurrencyFormat';
-import "./Payment.css"
+import "./payment.css"
 
 function Payment() {
 
