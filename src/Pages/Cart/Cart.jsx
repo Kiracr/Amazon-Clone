@@ -3,7 +3,7 @@ import Layout from '../../Components/Layout/Layout'
 import { DataContext } from '../../Components/DataProvider/DataProvider'
 import ProductCard from '../../Components/Product/ProductCard'
 import CurrencyFormat from '../../Components/CurrencyFormat/CurrencyFormat'
-import './Cart.css'
+import './cart.css'
 import {Link} from 'react-router-dom'
 import { Type } from '../../Utility/action.type'
 import { IoIosArrowUp, IoIosArrowDown } from "react-icons/io"
